@@ -1,0 +1,6 @@
+{
+  "name": "Just Speak",
+  "description": "Curated speaking topics, focused timer, and daily streak tracking for English speaking practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
